@@ -10,3 +10,4 @@ helloworld
 6.制作patch
   diff -ruN seg_old.c seg_new.c >first.patch
 7.再次运行，无错
+ok
